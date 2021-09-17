@@ -1,21 +1,5 @@
 const element = document.querySelector(".countdown")
-// let sec = 10;
-// setInterval(()=>{
-//   if(sec==0){
-//     element.innerHTML = "HAPPY NEW YEAR";
-//     element.style.color="red"
-//   }
-//   if(sec<0){
-//     sec = 10;
-//     element.style.color="black"
-//   }
-//   if(sec>0){
-//  element.innerHTML = sec;
-//  element.style.color="black"
-//   }
-//     sec--;
-  
-// },1000);
+
 setTimeout(()=>{
    element.innerText = 10;
 // },1000)
@@ -49,25 +33,14 @@ setTimeout(()=>{
 setTimeout(()=>{
   element.innerText = "Happy New Year";
 // },11000)
-// },1000)
-// },1000)
-// },1000)
-// },1000)
-// },1000)
-// },1000)
-// },1000)
-// },1000)
-// },1000)
-// },1000)
-// },5000)
-},11000)
-},10000)
-},9000)
-},8000)
-},7000)
-},6000)
-},5000)
-},4000)
-},3000)
-},2000)
-},1000);
+},1000)
+},1000)
+},1000)
+},1000)
+},1000)
+},1000)
+},1000)
+},1000)
+},1000)
+},1000)
+},1000)
